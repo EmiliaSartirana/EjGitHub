@@ -1,2 +1,6 @@
 Tengo cascara amarilla
+<<<<<<< HEAD
 Soy dulce
+=======
+y soy alargada
+>>>>>>> b7df2516c042f60ca158c651a33d663b4631225b
